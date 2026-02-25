@@ -1,0 +1,14 @@
+{
+  "name": "guess_game",
+  "version": "1.0.0",
+  "description": "This is the implementation of [Skribbl.io](https://skribbl.io/)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
